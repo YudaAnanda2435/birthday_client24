@@ -512,7 +512,7 @@ selamat ulang tahun untuk seseorang yang dua kali lebih manis dari kue ulang tah
           name="viewport"
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover"
         />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/gallery/love.png" />
       </Head>
 
       <main className={styles.main}>
